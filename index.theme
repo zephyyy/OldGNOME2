@@ -52,27 +52,27 @@ Context=Status
 [48x48/stock/code]
 Type=Fixed
 Size=48
-Context=Other
+Context=Stock
 
 [48x48/stock/document]
 Type=Fixed
 Size=48
-Context=Other
+Context=Stock
 
 [48x48/stock/generic]
 Type=Fixed
 Size=48
-Context=Other
+Context=Stock
 
 [48x48/stock/io]
 Type=Fixed
 Size=48
-Context=Other
+Context=Stock
 
 [48x48/stock/net]
 Type=Fixed
 Size=48
-Context=Other
+Context=Stock
 
 [36x36/apps]
 Type=Fixed
@@ -107,12 +107,12 @@ Context=Status
 [36x36/stock/document]
 Type=Fixed
 Size=36
-Context=Other
+Context=Stock
 
 [36x36/stock/generic]
 Type=Fixed
 Size=36
-Context=Other
+Context=Stock
 
 [32x32/apps]
 Type=Fixed
@@ -147,47 +147,47 @@ Context=Status
 [32x32/stock/code]
 Type=Fixed
 Size=32
-Context=Other
+Context=Stock
 
 [32x32/stock/chart]
 Type=Fixed
 Size=32
-Context=Other
+Context=Stock
 
 [32x32/stock/data]
 Type=Fixed
 Size=32
-Context=Other
+Context=Stock
 
 [32x32/stock/document]
 Type=Fixed
 Size=32
-Context=Other
+Context=Stock
 
 [32x32/stock/generic]
 Type=Fixed
 Size=32
-Context=Other
+Context=Stock
 
 [32x32/stock/io]
 Type=Fixed
 Size=32
-Context=Other
+Context=Stock
 
 [32x32/stock/media]
 Type=Fixed
 Size=32
-Context=Other
+Context=Stock
 
 [32x32/stock/net]
 Type=Fixed
 Size=32
-Context=Other
+Context=Stock
 
 [32x32/stock/object]
 Type=Fixed
 Size=32
-Context=Other
+Context=Stock
 
 [24x24/actions]
 Type=Fixed
@@ -237,72 +237,72 @@ Context=Status
 [24x24/stock/chart]
 Type=Fixed
 Size=24
-Context=Other
+Context=Stock
 
 [24x24/stock/code]
 Type=Fixed
 Size=24
-Context=Other
+Context=Stock
 
 [24x24/stock/data]
 Type=Fixed
 Size=24
-Context=Other
+Context=Stock
 
 [24x24/stock/document]
 Type=Fixed
 Size=24
-Context=Other
+Context=Stock
 
 [24x24/stock/form]
 Type=Fixed
 Size=24
-Context=Other
+Context=Stock
 
 [24x24/stock/generic]
 Type=Fixed
 Size=24
-Context=Other
+Context=Stock
 
 [24x24/stock/image]
 Type=Fixed
 Size=24
-Context=Other
+Context=Stock
 
 [24x24/stock/io]
 Type=Fixed
 Size=24
-Context=Other
+Context=Stock
 
 [24x24/stock/media]
 Type=Fixed
 Size=24
-Context=Other
+Context=Stock
 
 [24x24/stock/navigation]
 Type=Fixed
 Size=24
-Context=Other
+Context=Stock
 
 [24x24/stock/net]
 Type=Fixed
 Size=24
-Context=Other
+Context=Stock
 
 [24x24/stock/object]
 Type=Fixed
 Size=24
-Context=Other
+Context=Stock
 
 [24x24/stock/table]
 Type=Fixed
 Size=24
-Context=Other
+Context=Stock
 
 [24x24/stock/text]
 Type=Fixed
 Size=24
-Context=Other
+Context=Stock
 
 [16x16/actions]
 Type=Fixed
@@ -357,77 +357,77 @@ Context=Status
 [16x16/stock/chart]
 Type=Fixed
 Size=16
-Context=Other
+Context=Stock
 
 [16x16/stock/code]
 Type=Fixed
 Size=16
-Context=Other
+Context=Stock
 
 [16x16/stock/data]
 Type=Fixed
 Size=16
-Context=Other
+Context=Stock
 
 [16x16/stock/document]
 Type=Fixed
 Size=16
-Context=Other
+Context=Stock
 
 [16x16/stock/emoticons]
 Type=Fixed
 Size=16
-Context=Other
+Context=Stock
 
 [16x16/stock/form]
 Type=Fixed
 Size=16
-Context=Other
+Context=Stock
 
 [16x16/stock/generic]
 Type=Fixed
 Size=16
-Context=Other
+Context=Stock
 
 [16x16/stock/image]
 Type=Fixed
 Size=16
-Context=Other
+Context=Stock
 
 [16x16/stock/io]
 Type=Fixed
 Size=16
-Context=Other
+Context=Stock
 
 [16x16/stock/media]
 Type=Fixed
 Size=16
-Context=Other
+Context=Stock
 
 [16x16/stock/navigation]
 Type=Fixed
 Size=16
-Context=Other
+Context=Stock
 
 [16x16/stock/net]
 Type=Fixed
 Size=16
-Context=Other
+Context=Stock
 
 [16x16/stock/object]
 Type=Fixed
 Size=16
-Context=Other
+Context=Stock
 
 [16x16/stock/table]
 Type=Fixed
 Size=16
-Context=Other
+Context=Stock
 
 [16x16/stock/text]
 Type=Fixed
 Size=16
-Context=Other
+Context=Stock
 
 [12x12/emblems]
 Type=Fixed
@@ -497,7 +497,7 @@ Context=Emblems
 [48x48/stock/data]
 Type=Fixed
 Size=48
-Context=Other
+Context=Stock
 
 [64x64/mimetypes]
 Type=Fixed
@@ -614,4 +614,4 @@ Type=Scalable
 Size=48
 MinSize=1
 MaxSize=512
-Context=Other
+Context=Stock
